@@ -1,9 +1,9 @@
 from pyrogram import Client
 from pyrogram.types import Message, ReplyKeyboardMarkup, ReplyKeyboardRemove, InlineKeyboardMarkup, InlineKeyboardButton, CallbackQuery, InlineQuery, InlineQueryResultArticle, InputTextMessageContent
 
-api_id = 3330082
-api_hash = 'a8c8207cff88b514f9906e2f58ddb123'
-bot_token = '1602446423:AAGzEXvQiLgC8AE-rT9emdcTsJmffcg1e2c'
+api_id = 12210813
+api_hash = 'e42eeae11a2f96bcfc5ec3b46a30adad'
+bot_token = '5495336675:AAFj_do23OgYVLyutqpl8BD3R3Aj0QCm8Bg'
 
 ##############################################################################################################################################
 
